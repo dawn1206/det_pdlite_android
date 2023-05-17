@@ -1,0 +1,7 @@
+Executable : C:\Users\12064\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\12064\Downloads\Paddle-Lite-Demo-develop\Paddle-Lite-Demo-develop\object_detection\android\app\cxx\picodet_detection_demo\app\.cxx\cmake\debug\armeabi-v7a
+Native
+jvmArgs : 
+

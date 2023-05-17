@@ -1,0 +1,8 @@
+# ninja log v5
+10	600	699877727	CMakeFiles/Native.dir/Utils.cc.o	2229fa9e647baae8
+1	808	699877727	CMakeFiles/Native.dir/Native.cc.o	4cc4e091f45b13f6
+6	1098	699877727	CMakeFiles/Native.dir/Pipeline.cc.o	6b58c968bcf838d1
+1098	1799	699877728	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	c7f1edb0b383a584
+4	1838	701021434	CMakeFiles/Native.dir/Pipeline.cc.o	6b58c968bcf838d1
+1839	2545	701021434	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so	c7f1edb0b383a584
+0	11	0	clean	f554f25fdb276257

@@ -1,0 +1,3 @@
+C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/Native.dir
+C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

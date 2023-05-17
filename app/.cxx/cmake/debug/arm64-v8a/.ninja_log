@@ -1,0 +1,22 @@
+# ninja log v5
+5	1334	699877639	CMakeFiles/Native.dir/Utils.cc.o	2fe9e48b29950696
+1	1760	699877640	CMakeFiles/Native.dir/Native.cc.o	abcaa86ceccefe2f
+15	1961	699877640	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1961	2703	699877641	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+3	1078	701021435	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1078	2110	701021436	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+0	12	0	clean	f554f25fdb276257
+8	606	701022714	CMakeFiles/Native.dir/Utils.cc.o	2fe9e48b29950696
+12	799	701022715	CMakeFiles/Native.dir/Native.cc.o	abcaa86ceccefe2f
+3	986	701022715	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+986	1506	701022715	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+13	1937	701173930	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1937	2883	701173931	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+14	1780	702294905	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1781	2761	702294906	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+15	1937	702707057	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1938	2930	702707058	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+3	990	702707273	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+991	1548	702707273	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998
+3	1335	702756380	CMakeFiles/Native.dir/Pipeline.cc.o	12ba5b753d089f5e
+1335	2264	702756380	C:/Users/12064/Downloads/Paddle-Lite-Demo-develop/Paddle-Lite-Demo-develop/object_detection/android/app/cxx/picodet_detection_demo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libNative.so	d3e2c36d2420b998

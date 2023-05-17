@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\12064\Downloads\Paddle-Lite-Demo-develop\Paddle-Lite-Demo-develop\object_detection\android\app\cxx\picodet_detection_demo\app\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.
